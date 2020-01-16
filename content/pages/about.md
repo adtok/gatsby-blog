@@ -4,10 +4,18 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Thank you for visiting my blog. My name is Adam, I'm currently working as a software engineer at [Clinc](https://www.clinc.com/). I'm hoping to use this blog as a space to share what I'm learning and keep notes I might find interesting easy to access and share.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+Topics I plan writing about:
+* Machine learning
+* Mathematics
+* Web development
+* Productivity
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+<!-- ![hover text](/media/image-2.jpg) -->
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Here's some other information you might want to know about me:
+* I went to school at Central Michigan University, and graduated with a degree in Mathematics and Computer Science.
+* My favorite subject within math is topology. I was exposed to it toward the end of my time in undergrad, and would love to explore it more.
+* Most of my programming is done in Python and JavaScript/TypeScript.
+* I'd like to start my own company some day.
