@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Adam Tokarsky',
-    photo: '/photo.jpg',
+    photo: '/photo.png',
     bio: 'Software Engineer at Clinc. Math, machine learning, and web development. Mathematics, CS at Central Michigan University.',
     contacts: {
       email: '',
